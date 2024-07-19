@@ -59,9 +59,6 @@ I live in Berlin, love music, concerts, dancing, photography, spending time in n
 - I recently started learning Tailwind CSS and am keen to further my knowledge in popular frameworks such as Angular, Vue, Svelte, React, and TypeScript.
 - Engaging in professional photography and advanced photo editing.
 
-## Projects
-- coming next
-
 ## Get in Touch
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/chantal-fee-preissler/](https://www.linkedin.com/in/chantal-preissler-014873217/))
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chantalpreissler@gmail.com)
