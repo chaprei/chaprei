@@ -60,5 +60,5 @@ I live in Berlin, love music, concerts, dancing, photography, spending time in n
 - Engaging in professional photography and advanced photo editing.
 
 ## Get in Touch
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/chantal-fee-preissler/](https://www.linkedin.com/in/chantal-preissler-014873217/))
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chantal-preissler-014873217/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chantalpreissler@gmail.com)
