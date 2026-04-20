@@ -3,7 +3,7 @@
 </div>
 
 ## About Me
-I am a passionate frontend developer and media designer with six years of professional experience. I have worked three years in an agency designing and coding websites for clients, conducting quality assurance, and providing customer support. For the past three years, I have been working as a Ruby on Rails frontend developer at sofatutor, where I conduct A/B tests for conversion rate optimization and collaborate closely with the design team.
+I am a passionate frontend developer and media designer with 7+ years of professional experience. I have worked three years in an agency designing and coding websites for clients, conducting quality assurance, and providing customer support. For the past 4+ years, I have been working as a Ruby on Rails frontend developer at sofatutor, where I conduct A/B tests for conversion rate optimization and collaborate closely with the design team.
 
 ## Skills and Technologies
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
